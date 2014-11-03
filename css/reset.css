@@ -1,0 +1,20 @@
+/* reset css */
+h1, h2, h3, h4, h5, h6{
+	font-weight: normal;
+}
+strong, b, em, i{
+	font-style: normal;
+}
+a{
+	text-decoration: none;
+}
+ul, ol, dl, dt, dd, p{
+	padding: 0;
+	margin: 0;
+}
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
